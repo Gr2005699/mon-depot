@@ -1,0 +1,19 @@
+gracenom:grace
+Gmail:francoise@gmail.com\Message:bonjour
+
+nom:hhh
+Gmail:francoise@gmail.com\Message:hytrez
+
+nom:smith
+Gmail:francoise@gmail.com\Message:je vais bien
+
+nom:kkk
+Gmail:francoise@gmail.com\Message:ca marche
+
+nom:felly
+Gmail:francoise@gmail.com\Message:bonjour
+
+nom:felly
+Gmail:francoise@gmail.com
+Message:JE SUIS GRACE
+
